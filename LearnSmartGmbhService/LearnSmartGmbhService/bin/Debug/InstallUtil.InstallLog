@@ -1,0 +1,432 @@
+﻿
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbHService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbHService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.InvalidOperationException: Der Dienststeuerungs-Manager auf dem Computer . kann nicht geöffnet werden. Möglicherweise verfügen Sie nicht über die Berechtigung zum Ausführen dieses Vorgangs.
+Die interne Ausnahme System.ComponentModel.Win32Exception wurde mit folgender Fehlermeldung ausgelöst: Zugriff verweigert.
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbHService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbHService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.InvalidOperationException: Der Dienststeuerungs-Manager auf dem Computer . kann nicht geöffnet werden. Möglicherweise verfügen Sie nicht über die Berechtigung zum Ausführen dieses Vorgangs.
+Die interne Ausnahme System.ComponentModel.Win32Exception wurde mit folgender Fehlermeldung ausgelöst: Zugriff verweigert.
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst wurde zum Löschen markiert
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst wurde zum Löschen markiert
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst wurde zum Löschen markiert
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst wurde zum Löschen markiert
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst ist bereits vorhanden
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst ist bereits vorhanden
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst ist bereits vorhanden
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.ComponentModel.Win32Exception: Der angegebene Dienst ist bereits vorhanden
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.InvalidOperationException: Der Dienststeuerungs-Manager auf dem Computer . kann nicht geöffnet werden. Möglicherweise verfügen Sie nicht über die Berechtigung zum Ausführen dieses Vorgangs.
+Die interne Ausnahme System.ComponentModel.Win32Exception wurde mit folgender Fehlermeldung ausgelöst: Zugriff verweigert.
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Während der Installationsphase ist eine Ausnahme aufgetreten.
+System.InvalidOperationException: Der Dienststeuerungs-Manager auf dem Computer . kann nicht geöffnet werden. Möglicherweise verfügen Sie nicht über die Berechtigung zum Ausführen dieses Vorgangs.
+Die interne Ausnahme System.ComponentModel.Win32Exception wurde mit folgender Fehlermeldung ausgelöst: Zugriff verweigert.
+
+Die Rollbackphase der Installation wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Rollbackphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.
+
+Eine transaktive Installation wird ausgeführt.
+
+Die Installationsphase wird gestartet.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Installationsphase ist abgeschlossen, und die Commitphase beginnt.
+Die Protokolldatei enthält den Fortschritt der Assembly C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe.
+Die Datei befindet sich in C:\Users\samendinp\source\repos\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.InstallLog.
+
+Die Commitphase wurde erfolgreich abgeschlossen.
+
+Die transaktive Installation ist abgeschlossen.

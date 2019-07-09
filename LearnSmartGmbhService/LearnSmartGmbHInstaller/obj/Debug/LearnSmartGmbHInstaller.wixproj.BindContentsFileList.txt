@@ -1,0 +1,3 @@
+C:\Users\samendinp\OneDrive\Code\LearnSmartGmbhService\LearnSmartGmbhService\bin\Debug\LearnSmartGmbhService.exe
+C:\Users\samendinp\OneDrive\Code\LearnSmartGmbhService\LearnSmartGmbHEditor\bin\Debug\LearnSmartGmbHEditor.exe
+C:\Users\samendinp\OneDrive\Code\LearnSmartGmbhService\LearnSmartGmbHEditor\bin\Debug\tools.xml

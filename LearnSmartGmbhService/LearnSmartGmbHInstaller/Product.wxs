@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wix xmlns="http://wixtoolset.org/schemas/v4/wxs">
+	<Product Id="*" Name="LearnSmartGmbHInstaller" Language="1033" Version="1.0.0.0" Manufacturer="Patrick Samendinger" UpgradeCode="fa4b00fc-43f5-41ea-9c01-5646c4fde172">
+		<Package InstallerVersion="200" Compressed="yes" InstallScope="perMachine" />
+
+		<MajorUpgrade DowngradeErrorMessage="A newer version of [ProductName] is already installed." />
+		<MediaTemplate />
+
+		<Feature Id="ProductFeature" Title="LearnSmartGmbH" Level="1">
+			<ComponentGroupRef Id="ProductComponents" />
+		</Feature>
+	</Product>
+
+	<Fragment>
+		<Directory Id="TARGETDIR" Name="SourceDir">
+			<Directory Id="ProgramFilesFolder">
+				<Directory Id="INSTALLFOLDER" Name="LearnSmartGmbHInstaller" />		
+    </Directory>
+      <Directory Id="DesktopFolder"/>
+                 <Directory Id="ProgramMenuFolder">
+                   <Directory Id="LearnSmartGmbHFolder"
+                              Name="LearnSmartGmbH"/>
+                   </Directory>
+		</Directory>
+	</Fragment>
+
+	<Fragment>
+		<ComponentGroup Id="ProductComponents" Directory="INSTALLFOLDER">
+      <Component Id="ProductComponent">
+        <File
+          Id="LearnSmartEXE"
+          Name="LearnSmartGmbHService.exe"
+          Source="$(var.LearnSmartGmbhService.TargetPath)"
+          Vital="yes"/>
+        <ServiceInstall Id="ServiceInstaller" Type="ownProcess" 
+                        Name="LSService" DisplayName="LSService"
+                        Description="Hardware-Ueberwachungs Tool" Start="auto"
+                         ErrorControl="normal"/>
+        <ServiceControl Id="StartService" Stop="both" Start="install" Remove="uninstall"
+                        Name="LSService" Wait="yes"/>
+      </Component>
+      <Component Id="LSEditor">
+       <File Id="LearnSmartGmbHEditor.exe" Name="LearnSmartGmbHEditor.exe" Source="C:\Users\samendinp\OneDrive\Code\LearnSmartGmbhService\LearnSmartGmbHEditor\bin\Debug\LearnSmartGmbHEditor.exe"/>
+      </Component>
+      <Component Id="tools.xml">
+        <File Id="tools.xml" Name="tools.xml" Source="C:\Users\samendinp\OneDrive\Code\LearnSmartGmbhService\LearnSmartGmbHEditor\bin\Debug\tools.xml"/>
+      </Component>
+    <Component Id="cmpDesktopShortcut">
+      <Shortcut Id="LSDesktop"
+                Name="LSEditor"
+                Description="Bearbeitungstool"
+                Directory="DesktopFolder"
+                Target="[#LearnSmartGmbHEditor.exe]"/>
+      <RegistryValue Root="HKCU"
+                     Key="Software\LearnSmartGmbH\Editor"
+                     Name="installed"
+                     Type="integer"
+                     Value="1"/>
+    </Component>
+    <Component Id="cmpShortcut">
+      <Shortcut Id="LSShortcut"
+                Name="LSEditor"
+                Description="Bearbeitungstool"
+                Directory="LearnSmartGmbHFolder"
+                Target="[INSTALLFOLDER]LearnSmartGmbHEditor.exe"
+                />
+      <RemoveFolder Id="DeleteShortcutFolder"
+                    Directory="LearnSmartGmbHFolder"
+                    On="uninstall"/>
+      <RegistryValue Root="HKCU"
+                     Key="Software/LearnSmartGmbH/LSEditor"
+                     Name="installed"
+                     Type="integer"
+                     Value="1"/>
+    </Component>
+    </ComponentGroup>
+    	</Fragment>
+</Wix>

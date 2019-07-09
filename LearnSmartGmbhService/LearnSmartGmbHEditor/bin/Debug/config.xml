@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<HardwareConf xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ComputerName>WINDOWS-G11F1SE</ComputerName>
+  <Prozessor>Intel(R) Core(TM) i7-4790K CPU @ 4.00GHz</Prozessor>
+  <HDDName>C:\</HDDName>
+  <HDDSize>214</HDDSize>
+  <grakaName>Intel(R) HD Graphics 4600</grakaName>
+  <grakaRAM>1073741824</grakaRAM>
+  <NetworkCardName>Realtek PCIe GBE Family Controller</NetworkCardName>
+  <NetworkCardPA>F0795965FA85</NetworkCardPA>
+  <SoundCardName>High Definition Audio-Gerät</SoundCardName>
+  <SoundCardID>HDAUDIO\FUNC_01&amp;VEN_10EC&amp;DEV_0887&amp;SUBSYS_10438616&amp;REV_1003\4&amp;33A4E45F&amp;0&amp;0001</SoundCardID>
+  <Memory>32 GB</Memory>
+  <adminmail>psamendinger@gmail.com</adminmail>
+</HardwareConf>

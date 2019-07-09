@@ -1,0 +1,3 @@
+C:\Users\samendinp\OneDrive\Code\LearnSmartGmbhService\LearnSmartGmbHInstaller\obj\Debug\cab1.cab
+C:\Users\samendinp\OneDrive\Code\LearnSmartGmbhService\LearnSmartGmbHInstaller\obj\Debug\LearnSmartGmbHInstaller.msi
+C:\Users\samendinp\OneDrive\Code\LearnSmartGmbhService\LearnSmartGmbHInstaller\obj\Debug\LearnSmartGmbHInstaller.wixpdb
